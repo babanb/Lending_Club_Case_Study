@@ -33,6 +33,7 @@ The company can utilise this knowledge for its portfolio and risk assessment.
 
 
 ## Technologies Used
+- Python 3.x
 - numpy
 - pandas
 - matplotlib
@@ -40,5 +41,5 @@ The company can utilise this knowledge for its portfolio and risk assessment.
 
 
 ## Contributors
-[Baban Bandgar](https://github.com/babanb/)
-[Himanshu Singh](https://github.com/HemanshuS)
+- [Baban Bandgar](https://github.com/babanb/)
+- [Himanshu Singh](https://github.com/HemanshuS)
